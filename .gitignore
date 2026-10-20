@@ -1,0 +1,17 @@
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos generados
+*.txt
+*.pdf
+recibos/
+
+# IDE
+.vscode/
+.kiro/
+.idea/
